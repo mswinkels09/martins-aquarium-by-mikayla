@@ -1,6 +1,28 @@
+@import "./fishList.css";
+@import "./locationList.css";
+@import "./quoteList.css";
+@import "./tipList.css";
+
+.body {
+    display: flex;
+}
+
+.header {
+    display: flex;
+    background-color: darkcyan;
+}
+
 h1 {
     color: blue;
+    font-size: 50px;
 }
 .logo {
     height: 150px;
+    padding-right: 6em;
 }
+
+.content--left {
+    
+}
+
+

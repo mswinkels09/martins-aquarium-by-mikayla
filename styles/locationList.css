@@ -1,0 +1,9 @@
+.location__image {
+    height: 200px;
+}
+.locationList {
+    border: solid crimson 1em
+}
+.location {
+    margin: 0.5em;
+}
