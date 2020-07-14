@@ -1,0 +1,18 @@
+.fish__image {
+    height: 100px;
+}
+.fishList {
+    border: solid goldenrod 1em
+    
+}
+.fishes {
+    display: flex;
+    justify-content: space-around;
+}
+.fish {
+    margin: 0.5em;
+}
+.fishListHeader {
+    display: flex;
+    justify-content: center;
+}
