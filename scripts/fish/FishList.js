@@ -16,5 +16,5 @@ export const FishList = () => {
         ${fishHTMLRepresentations}
     </article>`
 
-
 }
+
