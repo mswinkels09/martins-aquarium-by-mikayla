@@ -3,8 +3,16 @@
 }
 .fishList {
     border: solid goldenrod 1em
+    
+}
+.fishes {
+    display: flex;
+    justify-content: space-around;
 }
 .fish {
     margin: 0.5em;
-    flex-wrap: wrap;
+}
+.fishListHeader {
+    display: flex;
+    justify-content: center;
 }

@@ -1,6 +1,13 @@
 .quoteList {
     border: solid blueviolet 1em
 }
+.quotes {
+    margin: 1rem;
+}
 .quote {
     margin: 0.5em;
+}
+.quoteListHeader {
+    display: flex;
+    justify-content: center;
 }

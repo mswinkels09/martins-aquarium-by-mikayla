@@ -1,3 +1,7 @@
 .tipList {
     border: solid forestgreen 1em
 }
+.tipListHeader {
+    display: flex;
+    justify-content: center;
+}

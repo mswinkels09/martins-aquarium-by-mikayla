@@ -4,6 +4,19 @@
 .locationList {
     border: solid crimson 1em
 }
+
+.locations {
+    display: flex;
+    justify-content: space-around;
+}
+
+
 .location {
     margin: 0.5em;
+}
+
+
+.locationListHeader {
+    display: flex;
+    justify-content: center;
 }

@@ -14,15 +14,18 @@
 
 h1 {
     color: blue;
-    font-size: 50px;
+    font-size: 60px;
 }
 .logo {
     height: 150px;
     padding-right: 6em;
+    padding-left: 1em;
 }
 
 .content--left {
-    
+    flex: 3;
 }
-
+.content--right {
+    flex: 1;
+}
 
