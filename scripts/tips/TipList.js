@@ -2,7 +2,7 @@ import {TipAsHTML} from "./Tip.js"
 import {useTip} from "./TipDataProvider.js"
 
 export const TipList = () => {
-    const contentElement = document.querySelector(".content--right")
+    const contentElement = document.querySelector(".tipList")
     
     const tips = useTip()
 
@@ -11,7 +11,7 @@ export const TipList = () => {
         tipHTMLRepresentations += TipAsHTML(currentTipObj)
     }
     contentElement.innerHTML += `
-        <article class="tipList">
+        <article>
             ${tipHTMLRepresentations}
         </article>`
 }

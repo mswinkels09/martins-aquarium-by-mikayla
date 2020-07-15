@@ -2,7 +2,7 @@ import {useFish} from "./FishDataProvider.js"
 import {FishAsHTML} from "./Fish.js"
 
 export const FishList = () => {
-    const contentElement = document.querySelector(".content--left")
+    const contentElement = document.querySelector(".fishes")
 
     const fishes = useFish()
 
