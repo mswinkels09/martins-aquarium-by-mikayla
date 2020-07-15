@@ -1,7 +1,3 @@
-import {useLocation} from `./LocationDataProvider.js`
+import {LocationList} from "./LocationList.js"
 
-const allLocations = useLocation()
-
-for (const location of allLocations) {
-    console.log(location)
-}
+LocationList()
