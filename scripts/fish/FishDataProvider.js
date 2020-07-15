@@ -3,7 +3,7 @@ const fishCollection = [
         name: "Flounder",
         species: "Royal Angelfish",
         length: 1,
-        location: "Indo-Pacific Ocean",
+        location: "Coral Reef",
         diet: "Sponges and Turnicates",
         image: "https://qph.fs.quoracdn.net/main-qimg-1443196e4d8a4e17176d6b97eedc4f37"
     },
@@ -11,7 +11,7 @@ const fishCollection = [
         name: "Cleo",
         species: "Goldfish",
         length: 16,
-        location: "Atlantic Ocean",
+        location: "Lake Tahoe",
         diet: "algae",
         image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Katri.jpg"
     },
