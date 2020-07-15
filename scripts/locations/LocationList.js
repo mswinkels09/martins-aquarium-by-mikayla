@@ -3,7 +3,7 @@ import {LocationAsHTML} from "./Location.js"
 
 
 export const LocationList = () => {
-    const contentElement = document.querySelector(".content--left")
+    const contentElement = document.querySelector(".locations")
    
     const locations = useLocation()
    
