@@ -2,15 +2,16 @@
     height: 100px;
 }
 .fishList {
-    border: solid goldenrod 1em
+    border: solid goldenrod 1em;
     
 }
 .fishes {
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 .fish {
-    margin: 0.5em;
+    margin: 2em;
 }
 .fishListHeader {
     display: flex;
