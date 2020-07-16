@@ -9,6 +9,8 @@
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    border: dotted goldenrod 3px;
+    
 }
 .fish {
     margin: 2em;
