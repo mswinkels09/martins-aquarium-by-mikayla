@@ -16,6 +16,12 @@ h1 {
     color: blue;
     font-size: 60px;
 }
+
+h2 {
+    font-size: 40px;
+    margin: 6px;
+}
+
 .logo {
     height: 150px;
     padding-right: 6em;

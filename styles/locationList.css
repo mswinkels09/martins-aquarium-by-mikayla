@@ -10,6 +10,9 @@
     justify-content: space-around;
 }
 
+.location__name {
+    font-size: 20px;
+}
 
 .location {
     margin: 0.5em;
